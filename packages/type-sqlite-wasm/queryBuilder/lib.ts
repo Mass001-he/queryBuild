@@ -18,3 +18,5 @@ console.log(
     },
   ]),
 )
+
+new QueryBuilder().insert('users', ['name', 1111])
